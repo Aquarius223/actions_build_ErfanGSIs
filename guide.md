@@ -22,7 +22,6 @@ Generic System Image，简称GSI。
 
 >第一步 Fork仓库
 
-
 * 访问GitHub，注册/登陆账号。
 * 访问上面的项目地址
 * 点击右上角Fork，等待Fork完毕
@@ -47,10 +46,8 @@ Generic System Image，简称GSI。
 * 下载地址在Download Link后面，复制打开
 * 接着下载就可以了（日本的服务器，需要特殊操作才能下载  
 
-
 ### 好了，下载就完事了！
 ***
 >好啦，教程到这里就结束了。感谢看到这里的你～
-
 
 ### 作者：酷安@巨龙Jvlong，Github：together08
